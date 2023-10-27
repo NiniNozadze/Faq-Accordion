@@ -10,6 +10,7 @@ body{
     background: linear-gradient(180deg, #B068E9 0%, #6463E7 100%);
     display: flex;
     justify-content: center;
+    overflow-x: hidden;
 }
 .accordion{
 position: relative;
